@@ -1,0 +1,5 @@
+{
+    "servePort": 5000,
+    "dbUrl": "mongodb://akashi:admin@cloud-shard-00-00.ndngk.mongodb.net:27017,cloud-shard-00-01.ndngk.mongodb.net:27017,cloud-shard-00-02.ndngk.mongodb.net:27017/cloud?ssl=true&replicaSet=atlas-a22whr-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "secretKey": "mern-secret-key"
+}
